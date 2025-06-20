@@ -11,6 +11,7 @@ This collection features clear, beginner-friendly solutions to real HackerRank c
 Each file represents a solution to a distinct HackerRank problem. File names match the problem titles for easy reference.
 
 📂 HackeRank-Problem-Solving-Basic/
+```
 ├── Active Traders.py
 ├── Balanced System Files Partition.py
 ├── Longest Subarray.py
@@ -25,7 +26,7 @@ Each file represents a solution to a distinct HackerRank problem. File names mat
 ├── Username Change.py
 ├── Vowel Substring.py
 └── README.md
-
+```
 ---
 
 ## 📌 Problems Covered
@@ -64,7 +65,7 @@ Each file represents a solution to a distinct HackerRank problem. File names mat
 🧠 Explore alternate approaches and optimisation
 
 🔗 Related Resources
-My HackerRank Profile : https://www.hackerrank.com/profile/anshusharma5_as
+My HackerRank Profile: https://www.hackerrank.com/profile/anshusharma5_as
 
 Python Docs
 
@@ -75,7 +76,7 @@ https://www.hackerrank.com/certificates/iframe/18dbc67b38dd
 🙌 Contributing
 Contributions are welcome! If you have:
 
-More optimized solutions
+More optimised solutions
 
 Explanations or enhancements
 
